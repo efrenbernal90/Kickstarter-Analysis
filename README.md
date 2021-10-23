@@ -2,11 +2,16 @@
 
 ## Overview of Project
 
-### Purpose-To compare the launch date and funding goal of 	 to other kickstarter campaigns	
+### Purpose 
+
+To compare the launch date and funding goals of *Fever* to other kickstarter campaigns.	
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+
+[Analysis of Outcomes Based on Launch Date](/assets/images/Theater Outcomes by Launch Date.png)
+
 
 ### Analysis of Outcomes Based on Goals
 
