@@ -10,7 +10,7 @@ To compare the launch date and funding goals of *Fever* to other kickstarter cam
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Analysis of Outcomes Based on Launch Date](../Resources/TheaterOutcomesbyLaunchDate.png)
+![Analysis of Outcomes Based on Launch Date](Resources/TheaterOutcomesbyLaunchDate.png)
 
 ### Analysis of Outcomes Based on Goals
 
