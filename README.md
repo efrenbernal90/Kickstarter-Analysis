@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-### Purpose
+### Purpose-To compare the launch date and funding goal of 	 to other kickstarter campaigns	
 
 ## Analysis and Challenges
 
