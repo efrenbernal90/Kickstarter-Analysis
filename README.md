@@ -18,6 +18,10 @@ To compare the launch date and funding goals of *Fever* to other kickstarter cam
 
 ### Challenges and Difficulties Encountered
 
+Initial look into the data required some cleaning up and sorting.  Kickstarter data was filtered based on 'Parent category,' followed by converting Unix time stamps into standard date format (MM/DD/YYYY). 
+Formula used to convert timestamps:
+> =(((Ref cell/60)/60)/24)+DATE(1970,1,1)
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
