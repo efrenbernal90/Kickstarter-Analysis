@@ -47,3 +47,5 @@ $45,000 and $49,999) followed by campaings that spent more >$50,000 17%). Knowni
 These data sets are limited in capacity of showing us who the backers are that could show us the success of a campaign. 
 
 - What are some other possible tables and/or graphs that we could create?
+
+![Screenshot](Resources/Repo.png)
