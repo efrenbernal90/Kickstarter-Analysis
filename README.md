@@ -48,4 +48,3 @@ These data sets are limited in capacity of showing us who the backers are that c
 
 - What are some other possible tables and/or graphs that we could create?
 
-![Screenshot](Resources/Repo%20.png)
