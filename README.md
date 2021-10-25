@@ -40,6 +40,9 @@ Formula used to convert timestamps:
 
 - What are some limitations of this dataset?
 
-These data sets do 
+In our analysis above, we notice that there is a negative trend with success as the financial goal of the campaigns increase, however there are still successful campaings that spend more >$50,000 (~17%). Knowning who these backers are, as well as where they live, could provide more data as to indicating successful fundraising (i.e plays are more likely backed by wealthier donors in an affluent neighborhood or country).  Furthermore, initial analysis shows that the month of May had the most successful campaign outcomes (111 successful outcomes).
+
+
+These data sets are limited in capacity of showing us who the backers are that could show us the success of a campaign. 
 
 - What are some other possible tables and/or graphs that we could create?
